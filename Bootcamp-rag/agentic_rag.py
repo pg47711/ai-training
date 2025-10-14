@@ -34,7 +34,7 @@ EMBED_MODEL = "all-MiniLM-L6-v2"
 
 # NetApp LLM Configuration
 NETAPP_LLM_ENDPOINT = "https://llm-proxy-api.ai.eng.netapp.com/v1/completions"
-NETAPP_API_KEY = "sk_54508d6938935f6e4472170ee0d5beb05e725e91d3da9f0effb48c60e902960d"
+NETAPP_API_KEY = ""
 NETAPP_USER = "pg47711"
 NETAPP_MODEL = "gpt-5"
 
